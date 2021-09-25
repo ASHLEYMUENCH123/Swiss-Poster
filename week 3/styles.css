@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+    body{
+
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    #poster{
+
+        background-color: #ffffff;
+        width: 500px;
+        height: 666px;
+        border: 10px;
+        
+    }
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+  
+
+    .text--big{
+        font-size: 35px;
+        line-height: 0;
+        text-indent: 20px;
+        padding-bottom: 60px;
+    }
+
+    .small-texta{
+        font-size: 10px;
+        font-weight: 600;
+        width: 33%;
+        float: left;
+        padding-left: 20px;
+
+    }
+    
+    .small-textb{
+        font-size: 10px;
+        font-weight: 600;
+        width: 33%;
+        float: left;
+        padding-left: 10px;
+    }
+
+    .small-textc{
+        font-size: 10px;
+        font-weight: 600;
+        width: 33%;
+        float: left;
+        padding-left: 20px;
+    }
+
+  
